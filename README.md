@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @djimprove
 - 👀 I’m looking new opportunities and problems that gives me satisfication
 - 💞️ I’m looking to collaborate on javascript and java or anything which is new.
-- 📫 How to reach me dm or contact on gmail dj1996@gmail.com
+- 📫 How to reach me dm or contact on gmail jawanednyaneshwar1@gmail.com
 
 <!---
 djimprove/djimprove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
